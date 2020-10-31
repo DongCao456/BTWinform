@@ -1,0 +1,9 @@
+T:\16016211_CaoQuocDong\Tuan1\16016211CaoQuocDong\Tuan1_Bai1\bin\Debug\Tuan1_Bai1.exe.config
+T:\16016211_CaoQuocDong\Tuan1\16016211CaoQuocDong\Tuan1_Bai1\bin\Debug\Tuan1_Bai1.exe
+T:\16016211_CaoQuocDong\Tuan1\16016211CaoQuocDong\Tuan1_Bai1\bin\Debug\Tuan1_Bai1.pdb
+T:\16016211_CaoQuocDong\Tuan1\16016211CaoQuocDong\Tuan1_Bai1\obj\Debug\Tuan1_Bai1.csprojResolveAssemblyReference.cache
+T:\16016211_CaoQuocDong\Tuan1\16016211CaoQuocDong\Tuan1_Bai1\obj\Debug\Tuan1_Bai1.Properties.Resources.resources
+T:\16016211_CaoQuocDong\Tuan1\16016211CaoQuocDong\Tuan1_Bai1\obj\Debug\Tuan1_Bai1.csproj.GenerateResource.Cache
+T:\16016211_CaoQuocDong\Tuan1\16016211CaoQuocDong\Tuan1_Bai1\obj\Debug\Tuan1_Bai1.exe
+T:\16016211_CaoQuocDong\Tuan1\16016211CaoQuocDong\Tuan1_Bai1\obj\Debug\Tuan1_Bai1.pdb
+T:\16016211_CaoQuocDong\Tuan1\16016211CaoQuocDong\Tuan1_Bai1\obj\Debug\Tuan1_Bai1.frmBaitap1.resources

@@ -1,0 +1,8 @@
+T:\16016211_CaoQuocDong\Tuan1\16016211CaoQuocDong\Tuan1_Doitien\bin\Debug\Tuan1_Doitien.exe.config
+T:\16016211_CaoQuocDong\Tuan1\16016211CaoQuocDong\Tuan1_Doitien\bin\Debug\Tuan1_Doitien.exe
+T:\16016211_CaoQuocDong\Tuan1\16016211CaoQuocDong\Tuan1_Doitien\bin\Debug\Tuan1_Doitien.pdb
+T:\16016211_CaoQuocDong\Tuan1\16016211CaoQuocDong\Tuan1_Doitien\obj\Debug\Tuan1_Doitien.frmDoitien.resources
+T:\16016211_CaoQuocDong\Tuan1\16016211CaoQuocDong\Tuan1_Doitien\obj\Debug\Tuan1_Doitien.Properties.Resources.resources
+T:\16016211_CaoQuocDong\Tuan1\16016211CaoQuocDong\Tuan1_Doitien\obj\Debug\Tuan1_Doitien.csproj.GenerateResource.Cache
+T:\16016211_CaoQuocDong\Tuan1\16016211CaoQuocDong\Tuan1_Doitien\obj\Debug\Tuan1_Doitien.exe
+T:\16016211_CaoQuocDong\Tuan1\16016211CaoQuocDong\Tuan1_Doitien\obj\Debug\Tuan1_Doitien.pdb

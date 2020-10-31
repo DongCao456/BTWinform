@@ -1,0 +1,10 @@
+C:\Users\CaoQuocDong\Desktop\BTWinform\Tuan3\Tuan3_Cinema\bin\Debug\Tuan3_Cinema.exe.config
+C:\Users\CaoQuocDong\Desktop\BTWinform\Tuan3\Tuan3_Cinema\bin\Debug\Tuan3_Cinema.exe
+C:\Users\CaoQuocDong\Desktop\BTWinform\Tuan3\Tuan3_Cinema\bin\Debug\Tuan3_Cinema.pdb
+C:\Users\CaoQuocDong\Desktop\BTWinform\Tuan3\Tuan3_Cinema\obj\Debug\Tuan3_Cinema.csprojAssemblyReference.cache
+C:\Users\CaoQuocDong\Desktop\BTWinform\Tuan3\Tuan3_Cinema\obj\Debug\Tuan3_Cinema.frmCinema.resources
+C:\Users\CaoQuocDong\Desktop\BTWinform\Tuan3\Tuan3_Cinema\obj\Debug\Tuan3_Cinema.Properties.Resources.resources
+C:\Users\CaoQuocDong\Desktop\BTWinform\Tuan3\Tuan3_Cinema\obj\Debug\Tuan3_Cinema.csproj.GenerateResource.cache
+C:\Users\CaoQuocDong\Desktop\BTWinform\Tuan3\Tuan3_Cinema\obj\Debug\Tuan3_Cinema.csproj.CoreCompileInputs.cache
+C:\Users\CaoQuocDong\Desktop\BTWinform\Tuan3\Tuan3_Cinema\obj\Debug\Tuan3_Cinema.exe
+C:\Users\CaoQuocDong\Desktop\BTWinform\Tuan3\Tuan3_Cinema\obj\Debug\Tuan3_Cinema.pdb

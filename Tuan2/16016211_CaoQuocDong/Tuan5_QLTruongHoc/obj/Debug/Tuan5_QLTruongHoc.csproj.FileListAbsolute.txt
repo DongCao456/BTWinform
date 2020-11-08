@@ -1,0 +1,10 @@
+C:\Users\H4-HTTT\Desktop\BTWinform\Tuan2\16016211_CaoQuocDong\Tuan5_QLTruongHoc\bin\Debug\Tuan5_QLTruongHoc.exe.config
+C:\Users\H4-HTTT\Desktop\BTWinform\Tuan2\16016211_CaoQuocDong\Tuan5_QLTruongHoc\bin\Debug\Tuan5_QLTruongHoc.exe
+C:\Users\H4-HTTT\Desktop\BTWinform\Tuan2\16016211_CaoQuocDong\Tuan5_QLTruongHoc\bin\Debug\Tuan5_QLTruongHoc.pdb
+C:\Users\H4-HTTT\Desktop\BTWinform\Tuan2\16016211_CaoQuocDong\Tuan5_QLTruongHoc\obj\Debug\Tuan5_QLTruongHoc.csprojAssemblyReference.cache
+C:\Users\H4-HTTT\Desktop\BTWinform\Tuan2\16016211_CaoQuocDong\Tuan5_QLTruongHoc\obj\Debug\Tuan5_QLTruongHoc.formQLPhongMay.resources
+C:\Users\H4-HTTT\Desktop\BTWinform\Tuan2\16016211_CaoQuocDong\Tuan5_QLTruongHoc\obj\Debug\Tuan5_QLTruongHoc.Properties.Resources.resources
+C:\Users\H4-HTTT\Desktop\BTWinform\Tuan2\16016211_CaoQuocDong\Tuan5_QLTruongHoc\obj\Debug\Tuan5_QLTruongHoc.csproj.GenerateResource.cache
+C:\Users\H4-HTTT\Desktop\BTWinform\Tuan2\16016211_CaoQuocDong\Tuan5_QLTruongHoc\obj\Debug\Tuan5_QLTruongHoc.csproj.CoreCompileInputs.cache
+C:\Users\H4-HTTT\Desktop\BTWinform\Tuan2\16016211_CaoQuocDong\Tuan5_QLTruongHoc\obj\Debug\Tuan5_QLTruongHoc.exe
+C:\Users\H4-HTTT\Desktop\BTWinform\Tuan2\16016211_CaoQuocDong\Tuan5_QLTruongHoc\obj\Debug\Tuan5_QLTruongHoc.pdb

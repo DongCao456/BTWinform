@@ -27,3 +27,13 @@ C:\Users\CaoQuocDong\Desktop\BTWinform\Tuan2\16016211_CaoQuocDong\Tuan2_QuanlyCD
 C:\Users\CaoQuocDong\Desktop\BTWinform\Tuan2\16016211_CaoQuocDong\Tuan2_QuanlyCD\obj\Debug\Tuan2_QuanlyCD.csproj.CoreCompileInputs.cache
 C:\Users\CaoQuocDong\Desktop\BTWinform\Tuan2\16016211_CaoQuocDong\Tuan2_QuanlyCD\obj\Debug\Tuan2_QuanlyCD.exe
 C:\Users\CaoQuocDong\Desktop\BTWinform\Tuan2\16016211_CaoQuocDong\Tuan2_QuanlyCD\obj\Debug\Tuan2_QuanlyCD.pdb
+C:\Users\H4-HTTT\Desktop\BTWinform\Tuan2\16016211_CaoQuocDong\Tuan2_QuanlyCD\bin\Debug\Tuan2_QuanlyCD.exe.config
+C:\Users\H4-HTTT\Desktop\BTWinform\Tuan2\16016211_CaoQuocDong\Tuan2_QuanlyCD\bin\Debug\Tuan2_QuanlyCD.exe
+C:\Users\H4-HTTT\Desktop\BTWinform\Tuan2\16016211_CaoQuocDong\Tuan2_QuanlyCD\bin\Debug\Tuan2_QuanlyCD.pdb
+C:\Users\H4-HTTT\Desktop\BTWinform\Tuan2\16016211_CaoQuocDong\Tuan2_QuanlyCD\obj\Debug\Tuan2_QuanlyCD.csprojAssemblyReference.cache
+C:\Users\H4-HTTT\Desktop\BTWinform\Tuan2\16016211_CaoQuocDong\Tuan2_QuanlyCD\obj\Debug\Tuan2_QuanlyCD.frmQLCD.resources
+C:\Users\H4-HTTT\Desktop\BTWinform\Tuan2\16016211_CaoQuocDong\Tuan2_QuanlyCD\obj\Debug\Tuan2_QuanlyCD.Properties.Resources.resources
+C:\Users\H4-HTTT\Desktop\BTWinform\Tuan2\16016211_CaoQuocDong\Tuan2_QuanlyCD\obj\Debug\Tuan2_QuanlyCD.csproj.GenerateResource.cache
+C:\Users\H4-HTTT\Desktop\BTWinform\Tuan2\16016211_CaoQuocDong\Tuan2_QuanlyCD\obj\Debug\Tuan2_QuanlyCD.csproj.CoreCompileInputs.cache
+C:\Users\H4-HTTT\Desktop\BTWinform\Tuan2\16016211_CaoQuocDong\Tuan2_QuanlyCD\obj\Debug\Tuan2_QuanlyCD.exe
+C:\Users\H4-HTTT\Desktop\BTWinform\Tuan2\16016211_CaoQuocDong\Tuan2_QuanlyCD\obj\Debug\Tuan2_QuanlyCD.pdb

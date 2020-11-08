@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="QLPhonghocDataContext">
+  <DataContextMoniker Name="/QLPhonghocDataContextDataContext" />
+  <nestedChildShapes>
+    <classShape Id="181a5dd4-b493-44ee-9b59-335fef22c5ff" absoluteBounds="3.5, 0.875, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/QLPhonghocDataContextDataContext/tblMaytinh" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0143925b-c350-4657-a72c-4ec2d62e35f0" absoluteBounds="3.515, 1.335, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="dedcc564-7024-4ffd-be56-7278b36a45d4" absoluteBounds="0.75, 1.25, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/QLPhonghocDataContextDataContext/tblPhonghoc" />
+      <nestedChildShapes>
+        <elementListCompartment Id="483450b8-07d7-4e88-a0cf-31864aeecd8f" absoluteBounds="0.765, 1.71, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 2.03929768880208); (3.5 : 2.03929768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QLPhonghocDataContextDataContext/tblPhonghoc/tblPhonghoc_tblMaytinh" />
+      <nodes>
+        <classShapeMoniker Id="dedcc564-7024-4ffd-be56-7278b36a45d4" />
+        <classShapeMoniker Id="181a5dd4-b493-44ee-9b59-335fef22c5ff" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

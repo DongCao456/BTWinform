@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30621.155
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuan2_Bai13", "Tuan2_Bai13\Tuan2_Bai13.csproj", "{79DD9E96-1EFA-4E45-AC2C-BE38DF746F87}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuan3_Cinema", "..\..\Tuan3\Tuan3_Cinema\Tuan3_Cinema.csproj", "{2F74F2C2-47B0-4EC2-9031-7065660A17BE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuan5_QLTruongHoc", "Tuan5_QLTruongHoc\Tuan5_QLTruongHoc.csproj", "{76E86E1D-220C-4835-8F93-72E509561DAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuan2_QuanLyCafeSV", "Tuan2_QuanLyCafeSV\Tuan2_QuanLyCafeSV.csproj", "{90E370C8-4F9B-4AAB-B1B3-6E99033304AC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{76E86E1D-220C-4835-8F93-72E509561DAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76E86E1D-220C-4835-8F93-72E509561DAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76E86E1D-220C-4835-8F93-72E509561DAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90E370C8-4F9B-4AAB-B1B3-6E99033304AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90E370C8-4F9B-4AAB-B1B3-6E99033304AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90E370C8-4F9B-4AAB-B1B3-6E99033304AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90E370C8-4F9B-4AAB-B1B3-6E99033304AC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

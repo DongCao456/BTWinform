@@ -77,6 +77,7 @@ namespace Tuan3_Cinema
 
                 }
             }
+
             return tien;
         }
         private int Tintongtien()

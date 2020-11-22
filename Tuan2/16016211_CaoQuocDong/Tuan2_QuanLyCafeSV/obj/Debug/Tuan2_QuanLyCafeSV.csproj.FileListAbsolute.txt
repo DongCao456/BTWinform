@@ -1,0 +1,10 @@
+C:\Users\CaoQuocDong\Desktop\BTWinform\Tuan2\16016211_CaoQuocDong\Tuan2_QuanLyCafeSV\bin\Debug\Tuan2_QuanLyCafeSV.exe.config
+C:\Users\CaoQuocDong\Desktop\BTWinform\Tuan2\16016211_CaoQuocDong\Tuan2_QuanLyCafeSV\bin\Debug\Tuan2_QuanLyCafeSV.exe
+C:\Users\CaoQuocDong\Desktop\BTWinform\Tuan2\16016211_CaoQuocDong\Tuan2_QuanLyCafeSV\bin\Debug\Tuan2_QuanLyCafeSV.pdb
+C:\Users\CaoQuocDong\Desktop\BTWinform\Tuan2\16016211_CaoQuocDong\Tuan2_QuanLyCafeSV\obj\Debug\Tuan2_QuanLyCafeSV.csprojAssemblyReference.cache
+C:\Users\CaoQuocDong\Desktop\BTWinform\Tuan2\16016211_CaoQuocDong\Tuan2_QuanLyCafeSV\obj\Debug\Tuan2_QuanLyCafeSV.frmBill.resources
+C:\Users\CaoQuocDong\Desktop\BTWinform\Tuan2\16016211_CaoQuocDong\Tuan2_QuanLyCafeSV\obj\Debug\Tuan2_QuanLyCafeSV.Properties.Resources.resources
+C:\Users\CaoQuocDong\Desktop\BTWinform\Tuan2\16016211_CaoQuocDong\Tuan2_QuanLyCafeSV\obj\Debug\Tuan2_QuanLyCafeSV.csproj.GenerateResource.cache
+C:\Users\CaoQuocDong\Desktop\BTWinform\Tuan2\16016211_CaoQuocDong\Tuan2_QuanLyCafeSV\obj\Debug\Tuan2_QuanLyCafeSV.csproj.CoreCompileInputs.cache
+C:\Users\CaoQuocDong\Desktop\BTWinform\Tuan2\16016211_CaoQuocDong\Tuan2_QuanLyCafeSV\obj\Debug\Tuan2_QuanLyCafeSV.exe
+C:\Users\CaoQuocDong\Desktop\BTWinform\Tuan2\16016211_CaoQuocDong\Tuan2_QuanLyCafeSV\obj\Debug\Tuan2_QuanLyCafeSV.pdb

@@ -1,0 +1,15 @@
+C:\Users\CaoQuocDong\Desktop\BTWinform\Tuan3\QlyMaytinhPH\bin\Debug\QlyMaytinhPH.exe.config
+C:\Users\CaoQuocDong\Desktop\BTWinform\Tuan3\QlyMaytinhPH\bin\Debug\QlyMaytinhPH.exe
+C:\Users\CaoQuocDong\Desktop\BTWinform\Tuan3\QlyMaytinhPH\bin\Debug\QlyMaytinhPH.pdb
+C:\Users\CaoQuocDong\Desktop\BTWinform\Tuan3\QlyMaytinhPH\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\CaoQuocDong\Desktop\BTWinform\Tuan3\QlyMaytinhPH\bin\Debug\DevComponents.TreeGX.dll
+C:\Users\CaoQuocDong\Desktop\BTWinform\Tuan3\QlyMaytinhPH\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\CaoQuocDong\Desktop\BTWinform\Tuan3\QlyMaytinhPH\obj\Debug\QlyMaytinhPH.csprojAssemblyReference.cache
+C:\Users\CaoQuocDong\Desktop\BTWinform\Tuan3\QlyMaytinhPH\obj\Debug\QlyMaytinhPH.frmQLY.resources
+C:\Users\CaoQuocDong\Desktop\BTWinform\Tuan3\QlyMaytinhPH\obj\Debug\QlyMaytinhPH.Properties.Resources.resources
+C:\Users\CaoQuocDong\Desktop\BTWinform\Tuan3\QlyMaytinhPH\obj\Debug\QlyMaytinhPH.csproj.GenerateResource.cache
+C:\Users\CaoQuocDong\Desktop\BTWinform\Tuan3\QlyMaytinhPH\obj\Debug\QlyMaytinhPH.csproj.CoreCompileInputs.cache
+C:\Users\CaoQuocDong\Desktop\BTWinform\Tuan3\QlyMaytinhPH\obj\Debug\QlyMaytinhPH.csproj.CopyComplete
+C:\Users\CaoQuocDong\Desktop\BTWinform\Tuan3\QlyMaytinhPH\obj\Debug\QlyMaytinhPH.exe
+C:\Users\CaoQuocDong\Desktop\BTWinform\Tuan3\QlyMaytinhPH\obj\Debug\QlyMaytinhPH.pdb
+C:\Users\CaoQuocDong\Desktop\BTWinform\Tuan3\QlyMaytinhPH\obj\Debug\QlyMaytinhPH.Form2.resources
